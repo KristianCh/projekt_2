@@ -1,0 +1,14 @@
+$
+osobny automobil
+Ferrari
+Autobazar Pestovatelska 4 Bratislava
+5620
+2005
+udrziavane cervene dvojdverove
+$
+kamion
+Renault
+AUTO Modranska 5 Senec
+18000
+2011
+po havarii opraveny v dobrom stave
